@@ -38,7 +38,7 @@ windows  不能使用
 $ git log 查看当前的提交版本
 ```
 
->  版本的回馈
+>  版本的回馈   找到之前上出的文件并恢复
 
 ```bash
 $ git reset --hard HEAD^
