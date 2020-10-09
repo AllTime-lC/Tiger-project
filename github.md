@@ -86,4 +86,11 @@ $ git clone 仓库地址
 $ git pull
 ```
 
-## 11、 忽略某些文件
+## 11、 命令
+
+```bash
+$ git add  提交文件
+$ git commit -m '对文件的描述' 
+
+$ git diff  '查看工作区和暂存区的状态'
+```
