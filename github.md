@@ -100,3 +100,9 @@ $ git diff  '查看工作区和暂存区的状态'
 ```bash
 新增了 b.txt 这个文件
 ```
+
+## 13、链接库 传文件
+```bash
+$ git remote add origin + 网址  链接库
+$ git push -u originb master  传文件
+```
